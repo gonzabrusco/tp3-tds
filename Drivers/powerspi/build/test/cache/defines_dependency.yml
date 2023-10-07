@@ -1,0 +1,7 @@
+---
+build/test/mocks/mock_stm32g0xx_hal.c:
+- TEST
+src/powerspi.c:
+- TEST
+src/powerspi_stm32_port.c:
+- TEST

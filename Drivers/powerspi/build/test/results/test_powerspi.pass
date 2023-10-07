@@ -1,0 +1,34 @@
+---
+:source:
+  :path: test
+  :file: test_powerspi.c
+:successes:
+- :test: test_se_detecta_flanco_descendente_de_cs_y_comienza_a_escuchar
+  :line: 226
+  :message: ''
+  :unity_test_time: 0
+- :test: test_se_recibe_un_mensaje_sin_payload_y_contestamos_directamente
+  :line: 244
+  :message: ''
+  :unity_test_time: 0
+- :test: test_se_recibe_un_mensaje_con_payload_y_contestamos
+  :line: 287
+  :message: ''
+  :unity_test_time: 0
+- :test: test_se_recibe_un_mensaje_dirigido_a_otro_dispositivo
+  :line: 338
+  :message: ''
+  :unity_test_time: 0
+- :test: test_se_recibe_un_mensaje_con_payload_y_se_levanta_el_cs_en_el_medio
+  :line: 359
+  :message: ''
+  :unity_test_time: 0
+:failures: []
+:ignores: []
+:counts:
+  :total: 5
+  :passed: 5
+  :failed: 0
+  :ignored: 0
+:stdout: []
+:time: 0.004629279999790015

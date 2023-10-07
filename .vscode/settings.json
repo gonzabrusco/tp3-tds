@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "stm32g0xx_hal.h": "c",
+        "powerspi.h": "c",
+        "powerspi_stm32_port.h": "c",
+        "mock_stm32g0xx_hal.h": "c",
+        "array": "c",
+        "string_view": "c",
+        "initializer_list": "c",
+        "utility": "c"
+    }
+}

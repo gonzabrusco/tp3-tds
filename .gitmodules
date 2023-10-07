@@ -1,0 +1,3 @@
+[submodule "Drivers/powerspi/vendor/ceedling/plugins/fake_function_framework"]
+	path = Drivers/powerspi/vendor/ceedling/plugins/fake_function_framework
+	url = https://github.com/ElectronVector/fake_function_framework.git
